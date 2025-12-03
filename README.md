@@ -9,7 +9,9 @@ All implemented in Python :)
  - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/20251202_1.py): young Elves shenanigans
  - [Part two](https://github.com/fexed/AdventOfCode2025/blob/main/20251202_2.py): more silly patterns
 
-### Day 3: ...
+### Day 3: Lobby ✔️
+ - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/20251203_1.py): straight up jolting it
+ - [Part two](https://github.com/fexed/AdventOfCode2025/blob/main/20251203_2.py): even more jolting it
 
 ### Day 4: ...
 
