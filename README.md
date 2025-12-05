@@ -17,7 +17,9 @@ All implemented in Python :)
  - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/20251204_1.py): they see me rollin'
  - [Part two](https://github.com/fexed/AdventOfCode2025/blob/main/20251204_2.py): they do be rollin'
 
-### Day 5: ...
+### Day 5: Cafeteria ✔️
+ - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/20251205_1.py): spoiled
+ - [Part two](https://github.com/fexed/AdventOfCode2025/blob/main/20251205_2.py): fresh
 
 ### Day 6: ...
 
