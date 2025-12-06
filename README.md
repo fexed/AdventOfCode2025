@@ -21,7 +21,9 @@ All implemented in Python :)
  - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/Day5/20251205_1.py): spoiled
  - [Part two](https://github.com/fexed/AdventOfCode2025/blob/main/Day5/20251205_2.py): fresh
 
-### Day 6: ...
+### Day 6: Trash Compactor ✔️
+ - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/Day6/20251206_1.py): math it's already hard
+ - [Part two](https://github.com/fexed/AdventOfCode2025/blob/main/Day6/20251206_2.py): math shouldn't be made harder than it already is
 
 ### Day 7: ...
 
