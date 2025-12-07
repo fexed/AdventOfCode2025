@@ -25,7 +25,9 @@ All implemented in Python :)
  - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/Day6/20251206_1.py): math it's already hard
  - [Part two](https://github.com/fexed/AdventOfCode2025/blob/main/Day6/20251206_2.py): math shouldn't be made harder than it already is
 
-### Day 7: ...
+### Day 7: Laboratories ⭐⭐
+ - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/Day7/20251207_1.py): quantum theory
+ - [Part two](https://github.com/fexed/AdventOfCode2025/blob/main/Day7/20251207_2.py): quantum practice
 
 ### Day 8: ...
 
