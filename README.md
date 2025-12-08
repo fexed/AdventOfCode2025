@@ -29,7 +29,9 @@ All implemented in Python :)
  - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/Day7/20251207_1.py): quantum theory
  - [Part two](https://github.com/fexed/AdventOfCode2025/blob/main/Day7/20251207_2.py): quantum practice
 
-### Day 8: ...
+### Day 8: Playground ⭐⭐
+ - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/Day8/20251208_1.py): bruteforcing graphs is not a good idea
+ - [Part two](https://github.com/fexed/AdventOfCode2025/blob/main/Day8/20251208_2.py): but I've got time
 
 ### Day 9: ...
 
