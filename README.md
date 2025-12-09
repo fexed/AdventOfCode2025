@@ -33,7 +33,8 @@ All implemented in Python :)
  - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/Day8/20251208_1.py): bruteforcing graphs is not a good idea
  - [Part two](https://github.com/fexed/AdventOfCode2025/blob/main/Day8/20251208_2.py): but I've got time
 
-### Day 9: ...
+### Day 9: Movie Theater ⭐
+ - [Part one](https://github.com/fexed/AdventOfCode2025/blob/main/Day9/20251209_1.py)
 
 ### Day 10: ...
 
